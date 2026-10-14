@@ -1,0 +1,6 @@
+.idea/
+.DS_Store
+/HW
+/HW.exe
+*.test
+coverage.out
